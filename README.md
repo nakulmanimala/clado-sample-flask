@@ -4,7 +4,7 @@ instaruction to set the project
 - Load mysql with sample data dump file
 - Install requied python modules
 ```sh
-pip3 install flask mysql-connector-python
+pip3 install flask mysql-connector-python flask-cors
 ```
 - Open main.py file and update DB Host, User, Password, Database Name, Table Name ..etc
 - Run the application
